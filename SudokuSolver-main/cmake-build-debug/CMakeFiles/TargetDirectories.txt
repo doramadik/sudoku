@@ -1,3 +1,0 @@
-C:/Users/Evans/Downloads/SudokuSolver-main (1)/SudokuSolver-main/cmake-build-debug/CMakeFiles/SudokuSolver_main.dir
-C:/Users/Evans/Downloads/SudokuSolver-main (1)/SudokuSolver-main/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Evans/Downloads/SudokuSolver-main (1)/SudokuSolver-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
